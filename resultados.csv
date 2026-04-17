@@ -1,0 +1,31 @@
+algorithm,n,steps,time_s,memory_kb,nodes
+BFS,2,2,0.0001,3.75,6
+DFS,2,4,0.0012,4.83,12
+Greedy,2,2,0.0003,5.62,15
+A*,2,2,0.0002,2.76,5
+Hill Climbing,2,0,0.0001,1.22,0
+Simulated Annealing,2,22,0.0004,2.5,31
+BFS,3,2,0.0008,12.65,38
+DFS,3,4,0.0003,9.88,31
+Greedy,3,16,0.0082,152.09,424
+A*,3,2,0.0004,5.91,5
+Hill Climbing,3,1,0.0046,3.02,459
+Simulated Annealing,3,112,0.0023,1.85,176
+BFS,5,,,,
+DFS,5,,,,
+Greedy,5,24,0.029,930.34,1681
+A*,5,6,0.0108,295.4,35
+Hill Climbing,5,,0.053,5.05,3250
+Simulated Annealing,5,14834,0.6747,3.04,41427
+BFS,7,,,,
+DFS,7,,,,
+Greedy,7,,,,
+A*,7,,,,
+Hill Climbing,7,,0.1776,188.39,12250
+Simulated Annealing,7,,10.2604,4.45,500000
+BFS,10,,,,
+DFS,10,,,,
+Greedy,10,,,,
+A*,10,,,,
+Hill Climbing,10,,0.8301,7.53,45600
+Simulated Annealing,10,,10.5698,2.09,500000
